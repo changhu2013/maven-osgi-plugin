@@ -9,7 +9,7 @@ maven-osgi-plugin
 
 ================================================================
 
-<plugin>
+    <plugin>
 	<groupId>mobi.dadoudou</groupId>
 	<artifactId>maven-osgi-plugin</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
@@ -76,6 +76,6 @@ maven-osgi-plugin
 			</goals>
 		</execution>
 	</executions>
-</plugin>
+    </plugin>
 
   
