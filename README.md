@@ -6,6 +6,8 @@ maven-osgi-plugin
 ****************************************************************
 使用方式：
 
+
+
 <plugin>
 	<groupId>mobi.dadoudou</groupId>
 	<artifactId>maven-osgi-plugin</artifactId>
